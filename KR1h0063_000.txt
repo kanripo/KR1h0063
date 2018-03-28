@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 四書釋地
-#+DATE: 2018-03-28 13:09:48.847713
+#+DATE: 2018-03-28 13:09:48.959390
 #+PROPERTY: ID KR1h0063
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0063_WYG_000-1a>¶
 欽定四庫全書　　　　　經部八¶
